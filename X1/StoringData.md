@@ -11,5 +11,7 @@
 4. How to make a conscious choice of what to use [5 mins]
 5. Q and A to see understanding.
 
+@chakshu, when are we covering 2 and 3 in this storyline?
+
 # Installation Guides 🚀
 
