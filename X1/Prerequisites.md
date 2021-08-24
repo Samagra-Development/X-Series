@@ -71,7 +71,7 @@ None
  - Go to [Postman Website](https://www.postman.com/). You might have to create an account there.<br />
  - Once logged in, Import the [collection](https://www.getpostman.com/collections/9fde9a45d1cf1959d5b3). You can refer this [link](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) to check out how to import collection.<br />
  - Once imported, you will see "Sql Import API" request.<br />
- - Under the request body, Replace the **sheet_id** key's value with ID of the sheet where you added the data in step (3) and Replace**sheet_name** key's valye with name of       the same sheet tab<br />
+ - Under the request body, Replace the **sheet_id** key's value with ID of the sheet where you added the data in step (3) and Replace **sheet_name** key's valye with name of       the same sheet tab<br />
  - Once done, Click on **Send** button on top right.<br />
  - You should receive a response message as follows - {"status": "Queued"}<br />
  - You can also verify from the sheet, you should receive **SUCCESS**, or else error message will be printed on the top of the sheet tab.<br />
