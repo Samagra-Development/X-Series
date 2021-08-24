@@ -13,7 +13,7 @@
     1. Test if docker is working fine using - `docker version` on your terminal. You should see something like this. ![MarineGEO circle logo](/X1/res/docker-version-output.png) 
     This will show the basic details and version of your engine that you can use to debug things later on.
     2. Create a new directory call `database` anywhere on you system. You can either test the 
-    3. Add a new file called `docker-compose.yml` and add the contents of the [following file]() into that.
+    3. Add a new file called `docker-compose.yml` and add the contents of the [following file](https://gist.githubusercontent.com/ChakshuGautam/70184d2e8acacadb401eacfc2cc04acf/raw/c2ec25c8ee09b06f43ab3416efc9b8214873db8e/docker-compose.yml) into that.
     4. At this point your folder structure should look like this.
         ```txt
         database/
@@ -21,3 +21,4 @@
         ```
     5. Open you terminal and [navigate to the directory](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html) that you created. You can check the currently directory using either the `pwd` or `cd ,`.
     6. Create your own instance of PSQL using this command `docker-compose up -d`. You should be able to see and output like this on your terminal. #TODO: Insert Image.
+    7. Now open your Chrome and open the following url http://localhost:5001. Use the following key `2OWslm5aAjlTARU` to see your database.
