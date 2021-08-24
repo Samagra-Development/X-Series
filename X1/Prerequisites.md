@@ -57,16 +57,16 @@ None
      - Copy a link of this file. This link will be used later when creating data for the script
      
    3. Configuring the sheet/file on Scripts Sheet
-     - Open the [SQL Script Automation Sheet](https://docs.google.com/spreadsheets/d/1S8SnVgJtHe1u5Uz1sb99TvdIVqeipgCVFJ-N0NmCEMc/edit#gid=1290455573)
-     - Go to the sheet corresponding to your team, or create an invidual sheet by copying from existing sheet
-     - In your sheet, under the **PSQL Credentials(Slave)**, enter the database credentials where you want to upload this data
-     - To link the relevant data, enter the data range/file link under the column **Range to Copy**
-     - If file, then add then add **Link** under the column **Data type(sheet/link)**, else add **Sheet*
-     - If uploading from a google sheet, enter the name of the sheet tab under the **Sheet Name** column
+     - Open the [SQL Script Automation Sheet](https://docs.google.com/spreadsheets/d/1S8SnVgJtHe1u5Uz1sb99TvdIVqeipgCVFJ-N0NmCEMc/edit#gid=1290455573)<br />
+     - Go to the sheet corresponding to your team, or create an invidual sheet by copying from existing sheet<br />
+     - In your sheet, under the **PSQL Credentials(Slave)**, enter the database credentials where you want to upload this data<br />
+     - To link the relevant data, enter the data range/file link under the column **Range to Copy**<br />
+     - If file, then add then add **Link** under the column **Data type(sheet/link)**, else add **Sheet*<br />
+     - If uploading from a google sheet, enter the name of the sheet tab under the **Sheet Name** column<br />
      - Enter the name of table to be created in the database under **Table Name** column. If a new table is to be created, follow the naming conventions similar to mentioned for 
-       column titles above, else if trying add more rows, table name should be same to the table existing in database already
-     - **Everytime?** column is used when the sheet upload is automated, and represents if the row has to be run everytime the script is run in automated or not. The possible            responses are **Yes** or **No**.
-     - **Append** column represents if the data under the link is to append rows or destroy existing table and create the table again in database
+       column titles above, else if trying add more rows, table name should be same to the table existing in database already<br />
+     - **Everytime?** column is used when the sheet upload is automated, and represents if the row has to be run everytime the script is run in automated or not. The possible            responses are **Yes** or **No**.<br />
+     - **Append** column represents if the data under the link is to append rows or destroy existing table and create the table again in database<br />
     
    4. Running the script
      - Go to [Postman Website](https://www.postman.com/). You might have to create an account there.
