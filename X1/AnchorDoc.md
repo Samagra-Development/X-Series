@@ -23,6 +23,8 @@
 
 # Docs
 1. [Ability to select the right storage for your data](https://docs.google.com/presentation/d/10wzRMBT0a2GmqrLZ18t23hG_KfB5iPVqV5mFBiN0QVU) | [Comparison of Databases](https://docs.google.com/spreadsheets/d/1jBnI8Cn7t5eKWQgEHCPz2fr-CJl-wDKTLZSo94sD6oU/)
-2. [Install PSQL on Local Machine](https://github.com/Samagra-Development/X-Series/blob/main/X1/Prerequisites.md)
-3. [PSQL Data Types](https://github.com/Samagra-Development/X-Series/blob/main/X1/PSQL-DataTypes.md)
-4. [Ability to Import data from excel](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportingDataFromSheet.md)
+2. [Terminal Basics](https://github.com/Samagra-Development/X-Series/blob/main/X1/TerminalBasics.md)
+3. [Install PSQL on Local Machine](https://github.com/Samagra-Development/X-Series/blob/main/X1/Prerequisites.md)
+4. [PSQL Data Types](https://github.com/Samagra-Development/X-Series/blob/main/X1/PSQL-DataTypes.md)
+5. [Ability to Import data from PGAdmin](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportDataFromPgAdmin.md)
+6. [Ability to Import data from excel](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportingDataFromSheet.md)
