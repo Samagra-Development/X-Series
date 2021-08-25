@@ -1,8 +1,8 @@
 **Terminal for beginners!**
 
-1. Where am I? `pwd`
-2. What's around me? ls
-How do I get around cd place/ (forwards), cd .. (backwards)
+1. Where am I?(Present Working Directory) : `pwd` 
+2. What's around me? (List Folders) : `ls`
+3. How do I get around? (Navigate between folders) : `cd place/` (for forwards), `cd ..` (for backwards)
 What does this command do? man <command>
 How do I create a folder? mkdir folder_name
 I want to copy something cp thing new_thing
