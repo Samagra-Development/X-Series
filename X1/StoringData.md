@@ -4,7 +4,7 @@
 2. Ability to install PSQL on local machine
 3. Ability to create tables and import data from excel
 
-## StoryLine 📖
+## Agenda 📖
 1. Ability to select right storage for your data
 - What is a Database? [2 mins]
 - How is data stored? [3 mins]
