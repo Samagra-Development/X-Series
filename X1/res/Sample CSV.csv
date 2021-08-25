@@ -1,0 +1,546 @@
+sno,location,org_name,capacity,joining_date
+int(),varchar(255),varchar(255),"decimal(10,2)",date()
+1,North,"Aggarwal Gases, Bawana",12,23-Aug-21
+2,South-West,Ambe Gas,12,24-Aug-21
+3,North-West,Bhardwaj Gas & Hardware Store,0,25-Aug-21
+4,Shahdra,Devansh Oxygen Shahdara,,26-Aug-21
+5,-,Goyal,121.3,27-Aug-21
+6,North,Kanha Gas,2,28-Aug-21
+7,North,Mahavir Air Solutions,,29-Aug-21
+8,South-East,Mayur Air Products,,30-Aug-21
+9,North,"Multan Air, Bawana",,31-Aug-21
+10,New Delhi,Orbit,,01-Sep-21
+11,West,"Paramount Cryo Gases, Mundka",2,02-Sep-21
+12,North,"Salasar Gases Phoot Khurd, Delhi",0,03-Sep-21
+13,-,Seth Air,,04-Sep-21
+14,West,Shyam,0,05-Sep-21
+15,South-East,Vaibhav,,06-Sep-21
+16,New Delhi,Vinayak (Mayapuri),,07-Sep-21
+17,North,"Aggarwal Gases, Bawana",,08-Sep-21
+18,South-West,Ambe Gas,,09-Sep-21
+19,North-West,Bhardwaj Gas & Hardware Store,,10-Sep-21
+20,Shahdra,Devansh Oxygen Shahdara,,11-Sep-21
+21,-,Goyal,,12-Sep-21
+22,North,Kanha Gas,,13-Sep-21
+23,North,Mahavir Air Solutions,,14-Sep-21
+24,South-East,Mayur Air Products,,15-Sep-21
+25,North,"Multan Air, Bawana",,16-Sep-21
+26,New Delhi,Orbit,,17-Sep-21
+27,West,"Paramount Cryo Gases, Mundka",,18-Sep-21
+28,North,"Salasar Gases Phoot Khurd, Delhi",,19-Sep-21
+29,-,Seth Air,,20-Sep-21
+30,West,Shyam,,21-Sep-21
+31,South-East,Vaibhav,,22-Sep-21
+32,New Delhi,Vinayak (Mayapuri),,23-Sep-21
+33,North,"Aggarwal Gases, Bawana",2.5,24-Sep-21
+34,South-West,Ambe Gas,,25-Sep-21
+35,North-West,Bhardwaj Gas & Hardware Store,1,26-Sep-21
+36,Shahdra,Devansh Oxygen Shahdara,,27-Sep-21
+37,-,Goyal,,28-Sep-21
+38,North,Kanha Gas,0,29-Sep-21
+39,North,Mahavir Air Solutions,,30-Sep-21
+40,South-East,Mayur Air Products,,01-Oct-21
+41,North,"Multan Air, Bawana",0,02-Oct-21
+42,New Delhi,Orbit,0,03-Oct-21
+43,West,"Paramount Cryo Gases, Mundka",0,04-Oct-21
+44,North,"Salasar Gases Phoot Khurd, Delhi",3,05-Oct-21
+45,-,Seth Air,,06-Oct-21
+46,West,Shyam,0,07-Oct-21
+47,South-East,Vaibhav,7.23,08-Oct-21
+48,New Delhi,Vinayak (Mayapuri),4.5,09-Oct-21
+49,North,"Aggarwal Gases, Bawana",,10-Oct-21
+50,South-West,Ambe Gas,,11-Oct-21
+51,North-West,Bhardwaj Gas & Hardware Store,,12-Oct-21
+52,Shahdra,Devansh Oxygen Shahdara,,13-Oct-21
+53,-,Goyal,,14-Oct-21
+54,North,Kanha Gas,,15-Oct-21
+55,North,Mahavir Air Solutions,,16-Oct-21
+56,South-East,Mayur Air Products,,17-Oct-21
+57,North,"Multan Air, Bawana",,18-Oct-21
+58,New Delhi,Orbit,,19-Oct-21
+59,West,"Paramount Cryo Gases, Mundka",,20-Oct-21
+60,North,"Salasar Gases Phoot Khurd, Delhi",,21-Oct-21
+61,-,Seth Air,,22-Oct-21
+62,West,Shyam,,23-Oct-21
+63,South-East,Vaibhav,,24-Oct-21
+64,New Delhi,Vinayak (Mayapuri),,25-Oct-21
+65,North,"Aggarwal Gases, Bawana",0,26-Oct-21
+66,South-West,Ambe Gas,,27-Oct-21
+67,North-West,Bhardwaj Gas & Hardware Store,0,28-Oct-21
+68,Shahdra,Devansh Oxygen Shahdara,,29-Oct-21
+69,-,Goyal,,30-Oct-21
+70,North,Kanha Gas,0,31-Oct-21
+71,North,Mahavir Air Solutions,,01-Nov-21
+72,South-East,Mayur Air Products,,02-Nov-21
+73,North,"Multan Air, Bawana",5,03-Nov-21
+74,New Delhi,Orbit,0,04-Nov-21
+75,West,"Paramount Cryo Gases, Mundka",1,05-Nov-21
+76,North,"Salasar Gases Phoot Khurd, Delhi",0,06-Nov-21
+77,-,Seth Air,,07-Nov-21
+78,West,Shyam,0.6,08-Nov-21
+79,South-East,Vaibhav,1.5,09-Nov-21
+80,New Delhi,Vinayak (Mayapuri),8,10-Nov-21
+81,North,"Aggarwal Gases, Bawana",,11-Nov-21
+82,South-West,Ambe Gas,,12-Nov-21
+83,North-West,Bhardwaj Gas & Hardware Store,,13-Nov-21
+84,Shahdra,Devansh Oxygen Shahdara,,14-Nov-21
+85,-,Goyal,,15-Nov-21
+86,North,Kanha Gas,,16-Nov-21
+87,North,Mahavir Air Solutions,,17-Nov-21
+88,South-East,Mayur Air Products,,18-Nov-21
+89,North,"Multan Air, Bawana",,19-Nov-21
+90,New Delhi,Orbit,,20-Nov-21
+91,West,"Paramount Cryo Gases, Mundka",,21-Nov-21
+92,North,"Salasar Gases Phoot Khurd, Delhi",,22-Nov-21
+93,-,Seth Air,,23-Nov-21
+94,West,Shyam,,24-Nov-21
+95,South-East,Vaibhav,,25-Nov-21
+96,New Delhi,Vinayak (Mayapuri),,26-Nov-21
+97,North,"Aggarwal Gases, Bawana",6,27-Nov-21
+98,South-West,Ambe Gas,,28-Nov-21
+99,North-West,Bhardwaj Gas & Hardware Store,4,29-Nov-21
+100,Shahdra,Devansh Oxygen Shahdara,10,30-Nov-21
+101,-,Goyal,,01-Dec-21
+102,North,Kanha Gas,4,02-Dec-21
+103,North,Mahavir Air Solutions,,03-Dec-21
+104,South-East,Mayur Air Products,,04-Dec-21
+105,North,"Multan Air, Bawana",3.7,05-Dec-21
+106,New Delhi,Orbit,0,06-Dec-21
+107,West,"Paramount Cryo Gases, Mundka",5,07-Dec-21
+108,North,"Salasar Gases Phoot Khurd, Delhi",6,08-Dec-21
+109,-,Seth Air,,09-Dec-21
+110,West,Shyam,0,10-Dec-21
+111,South-East,Vaibhav,,11-Dec-21
+112,New Delhi,Vinayak (Mayapuri),15.5,12-Dec-21
+113,North,"Aggarwal Gases, Bawana",0,13-Dec-21
+114,South-West,Ambe Gas,,14-Dec-21
+115,North-West,Bhardwaj Gas & Hardware Store,,15-Dec-21
+116,Shahdra,Devansh Oxygen Shahdara,,16-Dec-21
+117,-,Goyal,,17-Dec-21
+118,North,Kanha Gas,,18-Dec-21
+119,North,Mahavir Air Solutions,,19-Dec-21
+120,South-East,Mayur Air Products,,20-Dec-21
+121,North,"Multan Air, Bawana",11,21-Dec-21
+122,New Delhi,Orbit,8,22-Dec-21
+123,West,"Paramount Cryo Gases, Mundka",8.67,23-Dec-21
+124,North,"Salasar Gases Phoot Khurd, Delhi",6,24-Dec-21
+125,-,Seth Air,,25-Dec-21
+126,West,Shyam,0,26-Dec-21
+127,South-East,Vaibhav,4.5,27-Dec-21
+128,New Delhi,Vinayak (Mayapuri),14.5,28-Dec-21
+129,North,"Aggarwal Gases, Bawana",6,29-Dec-21
+130,South-West,Ambe Gas,,30-Dec-21
+131,North-West,Bhardwaj Gas & Hardware Store,,31-Dec-21
+132,Shahdra,Devansh Oxygen Shahdara,,01-Jan-22
+133,-,Goyal,,02-Jan-22
+134,North,Kanha Gas,9,03-Jan-22
+135,North,Mahavir Air Solutions,,04-Jan-22
+136,South-East,Mayur Air Products,,05-Jan-22
+137,North,"Multan Air, Bawana",,06-Jan-22
+138,New Delhi,Orbit,,07-Jan-22
+139,West,"Paramount Cryo Gases, Mundka",12.5,08-Jan-22
+140,North,"Salasar Gases Phoot Khurd, Delhi",6,09-Jan-22
+141,-,Seth Air,,10-Jan-22
+142,West,Shyam,12,11-Jan-22
+143,South-East,Vaibhav,,12-Jan-22
+144,New Delhi,Vinayak (Mayapuri),,13-Jan-22
+145,North,"Aggarwal Gases, Bawana",7.75,14-Jan-22
+146,South-West,Ambe Gas,4,15-Jan-22
+147,North-West,Bhardwaj Gas & Hardware Store,,16-Jan-22
+148,Shahdra,Devansh Oxygen Shahdara,9.5,17-Jan-22
+149,-,Goyal,,18-Jan-22
+150,North,Kanha Gas,8.7,19-Jan-22
+151,North,Mahavir Air Solutions,,20-Jan-22
+152,South-East,Mayur Air Products,8,21-Jan-22
+153,North,"Multan Air, Bawana",8,22-Jan-22
+154,New Delhi,Orbit,12.5,23-Jan-22
+155,West,"Paramount Cryo Gases, Mundka",9,24-Jan-22
+156,North,"Salasar Gases Phoot Khurd, Delhi",6,25-Jan-22
+157,-,Seth Air,,26-Jan-22
+158,West,Shyam,9.75,27-Jan-22
+159,South-East,Vaibhav,6,28-Jan-22
+160,New Delhi,Vinayak (Mayapuri),23.5,29-Jan-22
+161,North,"Aggarwal Gases, Bawana",9.55,30-Jan-22
+162,South-West,Ambe Gas,10.4,31-Jan-22
+163,North-West,Bhardwaj Gas & Hardware Store,18.7,01-Feb-22
+164,Shahdra,Devansh Oxygen Shahdara,6.5,02-Feb-22
+165,-,Goyal,,03-Feb-22
+166,North,Kanha Gas,7,04-Feb-22
+167,North,Mahavir Air Solutions,,05-Feb-22
+168,South-East,Mayur Air Products,7,06-Feb-22
+169,North,"Multan Air, Bawana",4.9,07-Feb-22
+170,New Delhi,Orbit,7.5,08-Feb-22
+171,West,"Paramount Cryo Gases, Mundka",13.25,09-Feb-22
+172,North,"Salasar Gases Phoot Khurd, Delhi",17,10-Feb-22
+173,-,Seth Air,,11-Feb-22
+174,West,Shyam,13.5,12-Feb-22
+175,South-East,Vaibhav,9,13-Feb-22
+176,New Delhi,Vinayak (Mayapuri),24.5,14-Feb-22
+177,North,"Aggarwal Gases, Bawana",3.5,15-Feb-22
+178,South-West,Ambe Gas,6.4,16-Feb-22
+179,North-West,Bhardwaj Gas & Hardware Store,14,17-Feb-22
+180,Shahdra,Devansh Oxygen Shahdara,,18-Feb-22
+181,-,Goyal,,19-Feb-22
+182,North,Kanha Gas,5,20-Feb-22
+183,North,Mahavir Air Solutions,5.7,21-Feb-22
+184,South-East,Mayur Air Products,7.9,22-Feb-22
+185,North,"Multan Air, Bawana",22,23-Feb-22
+186,New Delhi,Orbit,16,24-Feb-22
+187,West,"Paramount Cryo Gases, Mundka",11,25-Feb-22
+188,North,"Salasar Gases Phoot Khurd, Delhi",13,26-Feb-22
+189,-,Seth Air,,27-Feb-22
+190,West,Shyam,10.5,28-Feb-22
+191,South-East,Vaibhav,6,01-Mar-22
+192,New Delhi,Vinayak (Mayapuri),21,02-Mar-22
+193,North,"Aggarwal Gases, Bawana",5,03-Mar-22
+194,South-West,Ambe Gas,6.6,04-Mar-22
+195,North-West,Bhardwaj Gas & Hardware Store,7.4,05-Mar-22
+196,Shahdra,Devansh Oxygen Shahdara,3.5,06-Mar-22
+197,-,Goyal,,07-Mar-22
+198,North,Kanha Gas,5,08-Mar-22
+199,North,Mahavir Air Solutions,4.6,09-Mar-22
+200,South-East,Mayur Air Products,8.3,10-Mar-22
+201,North,"Multan Air, Bawana",20.4,11-Mar-22
+202,New Delhi,Orbit,18.8,12-Mar-22
+203,West,"Paramount Cryo Gases, Mundka",5.25,13-Mar-22
+204,North,"Salasar Gases Phoot Khurd, Delhi",9,14-Mar-22
+205,-,Seth Air,,15-Mar-22
+206,West,Shyam,12,16-Mar-22
+207,South-East,Vaibhav,7.5,17-Mar-22
+208,New Delhi,Vinayak (Mayapuri),20,18-Mar-22
+209,North,"Aggarwal Gases, Bawana",11.5,19-Mar-22
+210,South-West,Ambe Gas,5.6,20-Mar-22
+211,North-West,Bhardwaj Gas & Hardware Store,17.5,21-Mar-22
+212,Shahdra,Devansh Oxygen Shahdara,10.3,22-Mar-22
+213,-,Goyal,,23-Mar-22
+214,North,Kanha Gas,5,24-Mar-22
+215,North,Mahavir Air Solutions,16.5,25-Mar-22
+216,South-East,Mayur Air Products,7.4,26-Mar-22
+217,North,"Multan Air, Bawana",25.3,27-Mar-22
+218,New Delhi,Orbit,18.7,28-Mar-22
+219,West,"Paramount Cryo Gases, Mundka",13,29-Mar-22
+220,North,"Salasar Gases Phoot Khurd, Delhi",14,30-Mar-22
+221,-,Seth Air,,31-Mar-22
+222,West,Shyam,9,01-Apr-22
+223,South-East,Vaibhav,6,02-Apr-22
+224,New Delhi,Vinayak (Mayapuri),29,03-Apr-22
+225,North,"Aggarwal Gases, Bawana",11.25,04-Apr-22
+226,South-West,Ambe Gas,11.6,05-Apr-22
+227,North-West,Bhardwaj Gas & Hardware Store,12.8,06-Apr-22
+228,Shahdra,Devansh Oxygen Shahdara,4.5,07-Apr-22
+229,-,Goyal,,08-Apr-22
+230,North,Kanha Gas,4.25,09-Apr-22
+231,North,Mahavir Air Solutions,15.4,10-Apr-22
+232,South-East,Mayur Air Products,7.4,11-Apr-22
+233,North,"Multan Air, Bawana",22,12-Apr-22
+234,New Delhi,Orbit,13.4,13-Apr-22
+235,West,"Paramount Cryo Gases, Mundka",13,14-Apr-22
+236,North,"Salasar Gases Phoot Khurd, Delhi",16,15-Apr-22
+237,-,Seth Air,,16-Apr-22
+238,West,Shyam,16,17-Apr-22
+239,South-East,Vaibhav,7,18-Apr-22
+240,New Delhi,Vinayak (Mayapuri),24,19-Apr-22
+241,North,"Aggarwal Gases, Bawana",7.5,20-Apr-22
+242,South-West,Ambe Gas,11.2,21-Apr-22
+243,North-West,Bhardwaj Gas & Hardware Store,12.7,22-Apr-22
+244,Shahdra,Devansh Oxygen Shahdara,9.6,23-Apr-22
+245,-,Goyal,,24-Apr-22
+246,North,Kanha Gas,3.5,25-Apr-22
+247,North,Mahavir Air Solutions,14,26-Apr-22
+248,South-East,Mayur Air Products,6.7,27-Apr-22
+249,North,"Multan Air, Bawana",19,28-Apr-22
+250,New Delhi,Orbit,15.5,29-Apr-22
+251,West,"Paramount Cryo Gases, Mundka",13.25,30-Apr-22
+252,North,"Salasar Gases Phoot Khurd, Delhi",12,01-May-22
+253,-,Seth Air,,02-May-22
+254,West,Shyam,19,03-May-22
+255,South-East,Vaibhav,8.5,04-May-22
+256,New Delhi,Vinayak (Mayapuri),22.5,05-May-22
+257,North,"Aggarwal Gases, Bawana",4.2,06-May-22
+258,South-West,Ambe Gas,8,07-May-22
+259,North-West,Bhardwaj Gas & Hardware Store,7.8,08-May-22
+260,Shahdra,Devansh Oxygen Shahdara,10.5,09-May-22
+261,-,Goyal,,10-May-22
+262,North,Kanha Gas,3.2,11-May-22
+263,North,Mahavir Air Solutions,13.7,12-May-22
+264,South-East,Mayur Air Products,8.5,13-May-22
+265,North,"Multan Air, Bawana",17.7,14-May-22
+266,New Delhi,Orbit,11.2,15-May-22
+267,West,"Paramount Cryo Gases, Mundka",12.25,16-May-22
+268,North,"Salasar Gases Phoot Khurd, Delhi",5.5,17-May-22
+269,-,Seth Air,,18-May-22
+270,West,Shyam,14,19-May-22
+271,South-East,Vaibhav,6,20-May-22
+272,New Delhi,Vinayak (Mayapuri),26,21-May-22
+273,North,"Aggarwal Gases, Bawana",5.2,22-May-22
+274,South-West,Ambe Gas,3.6,23-May-22
+275,North-West,Bhardwaj Gas & Hardware Store,14.7,24-May-22
+276,Shahdra,Devansh Oxygen Shahdara,10,25-May-22
+277,-,Goyal,,26-May-22
+278,North,Kanha Gas,2,27-May-22
+279,North,Mahavir Air Solutions,18.8,28-May-22
+280,South-East,Mayur Air Products,8.5,29-May-22
+281,North,"Multan Air, Bawana",23.8,30-May-22
+282,New Delhi,Orbit,15.4,31-May-22
+283,West,"Paramount Cryo Gases, Mundka",13,01-Jun-22
+284,North,"Salasar Gases Phoot Khurd, Delhi",15,02-Jun-22
+285,-,Seth Air,,03-Jun-22
+286,West,Shyam,16.5,04-Jun-22
+287,South-East,Vaibhav,7.5,05-Jun-22
+288,New Delhi,Vinayak (Mayapuri),21,06-Jun-22
+289,North,"Aggarwal Gases, Bawana",9.25,07-Jun-22
+290,South-West,Ambe Gas,16.4,08-Jun-22
+291,North-West,Bhardwaj Gas & Hardware Store,14,09-Jun-22
+292,Shahdra,Devansh Oxygen Shahdara,10,10-Jun-22
+293,-,Goyal,,11-Jun-22
+294,North,Kanha Gas,2.5,12-Jun-22
+295,North,Mahavir Air Solutions,18,13-Jun-22
+296,South-East,Mayur Air Products,9,14-Jun-22
+297,North,"Multan Air, Bawana",20.9,15-Jun-22
+298,New Delhi,Orbit,12,16-Jun-22
+299,West,"Paramount Cryo Gases, Mundka",13.5,17-Jun-22
+300,North,"Salasar Gases Phoot Khurd, Delhi",12.5,18-Jun-22
+301,-,Seth Air,,19-Jun-22
+302,West,Shyam,13,20-Jun-22
+303,South-East,Vaibhav,6.9,21-Jun-22
+304,New Delhi,Vinayak (Mayapuri),25,22-Jun-22
+305,North,"Aggarwal Gases, Bawana",11,23-Jun-22
+306,South-West,Ambe Gas,12.4,24-Jun-22
+307,North-West,Bhardwaj Gas & Hardware Store,10.7,25-Jun-22
+308,Shahdra,Devansh Oxygen Shahdara,7,26-Jun-22
+309,-,Goyal,,27-Jun-22
+310,North,Kanha Gas,7.5,28-Jun-22
+311,North,Mahavir Air Solutions,17.2,29-Jun-22
+312,South-East,Mayur Air Products,6.9,30-Jun-22
+313,North,"Multan Air, Bawana",24,01-Jul-22
+314,New Delhi,Orbit,17.8,02-Jul-22
+315,West,"Paramount Cryo Gases, Mundka",13,03-Jul-22
+316,North,"Salasar Gases Phoot Khurd, Delhi",12.5,04-Jul-22
+317,-,Seth Air,,05-Jul-22
+318,West,Shyam,17,06-Jul-22
+319,South-East,Vaibhav,7.5,07-Jul-22
+320,New Delhi,Vinayak (Mayapuri),27,08-Jul-22
+321,North,"Aggarwal Gases, Bawana",8,09-Jul-22
+322,South-West,Ambe Gas,16,10-Jul-22
+323,North-West,Bhardwaj Gas & Hardware Store,9.1,11-Jul-22
+324,Shahdra,Devansh Oxygen Shahdara,11,12-Jul-22
+325,-,Goyal,,13-Jul-22
+326,North,Kanha Gas,6,14-Jul-22
+327,North,Mahavir Air Solutions,16.4,15-Jul-22
+328,South-East,Mayur Air Products,6.1,16-Jul-22
+329,North,"Multan Air, Bawana",23.4,17-Jul-22
+330,New Delhi,Orbit,14.3,18-Jul-22
+331,West,"Paramount Cryo Gases, Mundka",13,19-Jul-22
+332,North,"Salasar Gases Phoot Khurd, Delhi",10,20-Jul-22
+333,-,Seth Air,,21-Jul-22
+334,West,Shyam,13.5,22-Jul-22
+335,South-East,Vaibhav,6,23-Jul-22
+336,New Delhi,Vinayak (Mayapuri),20,24-Jul-22
+337,North,"Aggarwal Gases, Bawana",6,25-Jul-22
+338,South-West,Ambe Gas,14.4,26-Jul-22
+339,North-West,Bhardwaj Gas & Hardware Store,6.3,27-Jul-22
+340,Shahdra,Devansh Oxygen Shahdara,8.9,28-Jul-22
+341,-,Goyal,,29-Jul-22
+342,North,Kanha Gas,4.5,30-Jul-22
+343,North,Mahavir Air Solutions,15.8,31-Jul-22
+344,South-East,Mayur Air Products,4.3,01-Aug-22
+345,North,"Multan Air, Bawana",21,02-Aug-22
+346,New Delhi,Orbit,12,03-Aug-22
+347,West,"Paramount Cryo Gases, Mundka",9.5,04-Aug-22
+348,North,"Salasar Gases Phoot Khurd, Delhi",9,05-Aug-22
+349,-,Seth Air,,06-Aug-22
+350,West,Shyam,16.25,07-Aug-22
+351,South-East,Vaibhav,6.4,08-Aug-22
+352,New Delhi,Vinayak (Mayapuri),21,09-Aug-22
+353,North,"Aggarwal Gases, Bawana",9.5,10-Aug-22
+354,South-West,Ambe Gas,16.4,11-Aug-22
+355,North-West,Bhardwaj Gas & Hardware Store,10.8,12-Aug-22
+356,Shahdra,Devansh Oxygen Shahdara,12,13-Aug-22
+357,-,Goyal,,14-Aug-22
+358,North,Kanha Gas,4,15-Aug-22
+359,North,Mahavir Air Solutions,15.2,16-Aug-22
+360,South-East,Mayur Air Products,7.5,17-Aug-22
+361,North,"Multan Air, Bawana",17.5,18-Aug-22
+362,New Delhi,Orbit,9,19-Aug-22
+363,West,"Paramount Cryo Gases, Mundka",11.75,20-Aug-22
+364,North,"Salasar Gases Phoot Khurd, Delhi",6.5,21-Aug-22
+365,-,Seth Air,,22-Aug-22
+366,West,Shyam,13.75,23-Aug-22
+367,South-East,Vaibhav,6.5,24-Aug-22
+368,New Delhi,Vinayak (Mayapuri),27.5,25-Aug-22
+369,North,"Aggarwal Gases, Bawana",11.8,26-Aug-22
+370,South-West,Ambe Gas,13.6,27-Aug-22
+371,North-West,Bhardwaj Gas & Hardware Store,12.6,28-Aug-22
+372,Shahdra,Devansh Oxygen Shahdara,9.8,29-Aug-22
+373,-,Goyal,,30-Aug-22
+374,North,Kanha Gas,3.8,31-Aug-22
+375,North,Mahavir Air Solutions,14.9,01-Sep-22
+376,South-East,Mayur Air Products,7,02-Sep-22
+377,North,"Multan Air, Bawana",23,03-Sep-22
+378,New Delhi,Orbit,14.8,04-Sep-22
+379,West,"Paramount Cryo Gases, Mundka",9.5,05-Sep-22
+380,North,"Salasar Gases Phoot Khurd, Delhi",10.5,06-Sep-22
+381,-,Seth Air,,07-Sep-22
+382,West,Shyam,11,08-Sep-22
+383,South-East,Vaibhav,7.5,09-Sep-22
+384,New Delhi,Vinayak (Mayapuri),25,10-Sep-22
+385,North,"Aggarwal Gases, Bawana",10,11-Sep-22
+386,South-West,Ambe Gas,16,12-Sep-22
+387,North-West,Bhardwaj Gas & Hardware Store,10.7,13-Sep-22
+388,Shahdra,Devansh Oxygen Shahdara,12.8,14-Sep-22
+389,-,Goyal,,15-Sep-22
+390,North,Kanha Gas,3.25,16-Sep-22
+391,North,Mahavir Air Solutions,14.3,17-Sep-22
+392,South-East,Mayur Air Products,6.9,18-Sep-22
+393,North,"Multan Air, Bawana",22.6,19-Sep-22
+394,New Delhi,Orbit,16.2,20-Sep-22
+395,West,"Paramount Cryo Gases, Mundka",10.25,21-Sep-22
+396,North,"Salasar Gases Phoot Khurd, Delhi",8.8,22-Sep-22
+397,-,Seth Air,,23-Sep-22
+398,West,Shyam,19.25,24-Sep-22
+399,South-East,Vaibhav,6,25-Sep-22
+400,New Delhi,Vinayak (Mayapuri),24.5,26-Sep-22
+401,North,"Aggarwal Gases, Bawana",9,27-Sep-22
+402,South-West,Ambe Gas,15.2,28-Sep-22
+403,North-West,Bhardwaj Gas & Hardware Store,10.7,29-Sep-22
+404,Shahdra,Devansh Oxygen Shahdara,13,30-Sep-22
+405,-,Goyal,,01-Oct-22
+406,North,Kanha Gas,3.1,02-Oct-22
+407,North,Mahavir Air Solutions,14.1,03-Oct-22
+408,South-East,Mayur Air Products,5.5,04-Oct-22
+409,North,"Multan Air, Bawana",20,05-Oct-22
+410,New Delhi,Orbit,14.4,06-Oct-22
+411,West,"Paramount Cryo Gases, Mundka",8,07-Oct-22
+412,North,"Salasar Gases Phoot Khurd, Delhi",8.2,08-Oct-22
+413,-,Seth Air,,09-Oct-22
+414,West,Shyam,15.75,10-Oct-22
+415,South-East,Vaibhav,7,11-Oct-22
+416,New Delhi,Vinayak (Mayapuri),26.5,12-Oct-22
+417,North,"Aggarwal Gases, Bawana",10.7,13-Oct-22
+418,South-West,Ambe Gas,12.8,14-Oct-22
+419,North-West,Bhardwaj Gas & Hardware Store,8.5,15-Oct-22
+420,Shahdra,Devansh Oxygen Shahdara,12.25,16-Oct-22
+421,-,Goyal,,17-Oct-22
+422,North,Kanha Gas,3.1,18-Oct-22
+423,North,Mahavir Air Solutions,14,19-Oct-22
+424,South-East,Mayur Air Products,4.4,20-Oct-22
+425,North,"Multan Air, Bawana",22.5,21-Oct-22
+426,New Delhi,Orbit,17,22-Oct-22
+427,West,"Paramount Cryo Gases, Mundka",9.75,23-Oct-22
+428,North,"Salasar Gases Phoot Khurd, Delhi",15,24-Oct-22
+429,-,Seth Air,,25-Oct-22
+430,West,Shyam,14,26-Oct-22
+431,South-East,Vaibhav,7.5,27-Oct-22
+432,New Delhi,Vinayak (Mayapuri),21,28-Oct-22
+433,North,"Aggarwal Gases, Bawana",10,29-Oct-22
+434,South-West,Ambe Gas,11.6,30-Oct-22
+435,North-West,Bhardwaj Gas & Hardware Store,9.4,31-Oct-22
+436,Shahdra,Devansh Oxygen Shahdara,11,01-Nov-22
+437,-,Goyal,,02-Nov-22
+438,North,Kanha Gas,3.1,03-Nov-22
+439,North,Mahavir Air Solutions,13.9,04-Nov-22
+440,South-East,Mayur Air Products,7.3,05-Nov-22
+441,North,"Multan Air, Bawana",19.8,06-Nov-22
+442,New Delhi,Orbit,14.3,07-Nov-22
+443,West,"Paramount Cryo Gases, Mundka",12,08-Nov-22
+444,North,"Salasar Gases Phoot Khurd, Delhi",14,09-Nov-22
+445,-,Seth Air,,10-Nov-22
+446,West,Shyam,12.5,11-Nov-22
+447,South-East,Vaibhav,7,12-Nov-22
+448,New Delhi,Vinayak (Mayapuri),25,13-Nov-22
+449,North,"Aggarwal Gases, Bawana",,14-Nov-22
+450,South-West,Ambe Gas,,15-Nov-22
+451,North-West,Bhardwaj Gas & Hardware Store,,16-Nov-22
+452,Shahdra,Devansh Oxygen Shahdara,,17-Nov-22
+453,-,Goyal,,18-Nov-22
+454,North,Kanha Gas,,19-Nov-22
+455,North,Mahavir Air Solutions,,20-Nov-22
+456,South-East,Mayur Air Products,,21-Nov-22
+457,North,"Multan Air, Bawana",,22-Nov-22
+458,New Delhi,Orbit,,23-Nov-22
+459,West,"Paramount Cryo Gases, Mundka",,24-Nov-22
+460,North,"Salasar Gases Phoot Khurd, Delhi",,25-Nov-22
+461,-,Seth Air,,26-Nov-22
+462,West,Shyam,,27-Nov-22
+463,South-East,Vaibhav,,28-Nov-22
+464,New Delhi,Vinayak (Mayapuri),,29-Nov-22
+465,North,"Aggarwal Gases, Bawana",,30-Nov-22
+466,South-West,Ambe Gas,,01-Dec-22
+467,North-West,Bhardwaj Gas & Hardware Store,,02-Dec-22
+468,Shahdra,Devansh Oxygen Shahdara,,03-Dec-22
+469,-,Goyal,,04-Dec-22
+470,North,Kanha Gas,,05-Dec-22
+471,North,Mahavir Air Solutions,,06-Dec-22
+472,South-East,Mayur Air Products,,07-Dec-22
+473,North,"Multan Air, Bawana",,08-Dec-22
+474,New Delhi,Orbit,,09-Dec-22
+475,West,"Paramount Cryo Gases, Mundka",,10-Dec-22
+476,North,"Salasar Gases Phoot Khurd, Delhi",,11-Dec-22
+477,-,Seth Air,,12-Dec-22
+478,West,Shyam,,13-Dec-22
+479,South-East,Vaibhav,,14-Dec-22
+480,New Delhi,Vinayak (Mayapuri),,15-Dec-22
+481,North,"Aggarwal Gases, Bawana",,16-Dec-22
+482,South-West,Ambe Gas,,17-Dec-22
+483,North-West,Bhardwaj Gas & Hardware Store,,18-Dec-22
+484,Shahdra,Devansh Oxygen Shahdara,,19-Dec-22
+485,-,Goyal,,20-Dec-22
+486,North,Kanha Gas,,21-Dec-22
+487,North,Mahavir Air Solutions,,22-Dec-22
+488,South-East,Mayur Air Products,,23-Dec-22
+489,North,"Multan Air, Bawana",,24-Dec-22
+490,New Delhi,Orbit,,25-Dec-22
+491,West,"Paramount Cryo Gases, Mundka",,26-Dec-22
+492,North,"Salasar Gases Phoot Khurd, Delhi",,27-Dec-22
+493,-,Seth Air,,28-Dec-22
+494,West,Shyam,,29-Dec-22
+495,South-East,Vaibhav,,30-Dec-22
+496,New Delhi,Vinayak (Mayapuri),,31-Dec-22
+497,North,"Aggarwal Gases, Bawana",,01-Jan-23
+498,South-West,Ambe Gas,,02-Jan-23
+499,North-West,Bhardwaj Gas & Hardware Store,,03-Jan-23
+500,Shahdra,Devansh Oxygen Shahdara,,04-Jan-23
+501,-,Goyal,,05-Jan-23
+502,North,Kanha Gas,,06-Jan-23
+503,North,Mahavir Air Solutions,,07-Jan-23
+504,South-East,Mayur Air Products,,08-Jan-23
+505,North,"Multan Air, Bawana",,09-Jan-23
+506,New Delhi,Orbit,,10-Jan-23
+507,West,"Paramount Cryo Gases, Mundka",,11-Jan-23
+508,North,"Salasar Gases Phoot Khurd, Delhi",,12-Jan-23
+509,-,Seth Air,,13-Jan-23
+510,West,Shyam,,14-Jan-23
+511,South-East,Vaibhav,,15-Jan-23
+512,New Delhi,Vinayak (Mayapuri),,16-Jan-23
+513,North,"Aggarwal Gases, Bawana",,17-Jan-23
+514,South-West,Ambe Gas,,18-Jan-23
+515,North-West,Bhardwaj Gas & Hardware Store,,19-Jan-23
+516,Shahdra,Devansh Oxygen Shahdara,,20-Jan-23
+517,-,Goyal,,21-Jan-23
+518,North,Kanha Gas,,22-Jan-23
+519,North,Mahavir Air Solutions,,23-Jan-23
+520,South-East,Mayur Air Products,,24-Jan-23
+521,North,"Multan Air, Bawana",,25-Jan-23
+522,New Delhi,Orbit,,26-Jan-23
+523,West,"Paramount Cryo Gases, Mundka",,27-Jan-23
+524,North,"Salasar Gases Phoot Khurd, Delhi",,28-Jan-23
+525,-,Seth Air,,29-Jan-23
+526,West,Shyam,,30-Jan-23
+527,South-East,Vaibhav,,31-Jan-23
+528,New Delhi,Vinayak (Mayapuri),,01-Feb-23
+529,North,"Aggarwal Gases, Bawana",,02-Feb-23
+530,South-West,Ambe Gas,,03-Feb-23
+531,North-West,Bhardwaj Gas & Hardware Store,,04-Feb-23
+532,Shahdra,Devansh Oxygen Shahdara,,05-Feb-23
+533,-,Goyal,,06-Feb-23
+534,North,Kanha Gas,,07-Feb-23
+535,North,Mahavir Air Solutions,,08-Feb-23
+536,South-East,Mayur Air Products,,09-Feb-23
+537,North,"Multan Air, Bawana",,10-Feb-23
+538,New Delhi,Orbit,,11-Feb-23
+539,West,"Paramount Cryo Gases, Mundka",,12-Feb-23
+540,North,"Salasar Gases Phoot Khurd, Delhi",,13-Feb-23
+541,-,Seth Air,,14-Feb-23
+542,West,Shyam,,15-Feb-23
+543,South-East,Vaibhav,,16-Feb-23
+544,New Delhi,Vinayak (Mayapuri),,17-Feb-23
