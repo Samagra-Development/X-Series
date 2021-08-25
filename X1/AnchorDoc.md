@@ -12,7 +12,6 @@
 
 2. Ability to install PSQL on local machine
 - What is Docker & installing it? [10 mins]
-- What is terminal and basics - brushing through [10 mins]
 - Installing PSQL [10 mins]
 
 3. Ability to create tables and import data from excel
