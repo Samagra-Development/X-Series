@@ -13,7 +13,8 @@
      **Date** - If the data in the column is of date format, then add date(). Please ensure there are valid date format entries in this column.<br />
   - Save the file locally on your system as .csv<br />
        <br />
- **2. Uploading of dataset<br /><br />**
+
+**2. Uploading of dataset<br /><br />**
      **For Smaller Datasets (upto ~1 lakh rows), which can be easily uploaded on Google sheets**<br />
      - Import the sheet saved above on Google sheets.<br />
      - Please give edit access to *sql-cron-sheet@sql-automator.iam.gserviceaccount.com*<br />
@@ -24,6 +25,7 @@
      - Upload the csv on the Minio UI.<br />
      - Copy a link of this file. This link will be used later when creating data for the script<br />
      <br />
+ 
  **3. Configuring the sheet/file on Scripts Sheet<br />**
  - Open the [SQL Script Automation Sheet](https://docs.google.com/spreadsheets/d/1S8SnVgJtHe1u5Uz1sb99TvdIVqeipgCVFJ-N0NmCEMc/edit#gid=1290455573)<br />
  - Go to the sheet corresponding to your team, or create an invidual sheet by copying from existing sheet<br />
@@ -35,7 +37,8 @@
  - **Everytime?** column is used when the sheet upload is automated, and represents if the row has to be run everytime the script is run in automated or not. The possible       responses are **Yes** or **No**.<br />
  - **Append** column represents if the data under the link is to append rows or destroy existing table and create the table again in database<br />
     <br />
- **4. Configuring the sheet/file on Scripts Sheet<br />**
+ 
+**4. Configuring the sheet/file on Scripts Sheet<br />**
  - Go to [Postman Website](https://www.postman.com/). You might have to create an account there.<br />
  - Once logged in, Import the [collection](https://www.getpostman.com/collections/9fde9a45d1cf1959d5b3). You can refer this [link](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) to check out how to import collection.<br />
  - Once imported, you will see "Sql Import API" request.<br />
