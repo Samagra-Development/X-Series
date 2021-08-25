@@ -23,7 +23,6 @@
 4. Q and A to see understanding [15 mins]
 
 # Docs
-1. [Ability to select the right storage for your data](https://docs.google.com/presentation/d/10wzRMBT0a2GmqrLZ18t23hG_KfB5iPVqV5mFBiN0QVU)
-2. [Comparison of Databases](https://docs.google.com/spreadsheets/d/1jBnI8Cn7t5eKWQgEHCPz2fr-CJl-wDKTLZSo94sD6oU/)
+1. [Ability to select the right storage for your data](https://docs.google.com/presentation/d/10wzRMBT0a2GmqrLZ18t23hG_KfB5iPVqV5mFBiN0QVU) | [Comparison of Databases](https://docs.google.com/spreadsheets/d/1jBnI8Cn7t5eKWQgEHCPz2fr-CJl-wDKTLZSo94sD6oU/)
 3. [Install PSQL on Local Machine](https://github.com/Samagra-Development/X-Series/blob/main/X1/Prerequisites.md)
 4. [Ability to Import data from excel](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportingDataFromSheet.md)
