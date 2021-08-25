@@ -1,5 +1,6 @@
 **Terminal for beginners!**
 
+**For Mac Users**
 1. Present working folder (Where am I?) : `pwd` 
 2. List folders (What's around me?) : `ls`
 3. Navigate between folders (How do I get around?) : `cd place/` (for forwards), `cd ..` (for backwards)
