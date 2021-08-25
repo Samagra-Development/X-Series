@@ -9,5 +9,5 @@ CREATE TABLE "test_table" (
 );
 ```
 
-2. Download the CSV File. Remove the second line.
+2. Download [this CSV File](https://github.com/Samagra-Development/X-Series/blob/main/X1/res/Sample%20CSV.csv). Remove the second line.
 3. Import file using Import/Export option in pgadmin by right clicking the table name.
