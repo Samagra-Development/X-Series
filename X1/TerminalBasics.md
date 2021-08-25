@@ -1,4 +1,4 @@
-**Terminal/Command Prompt for beginners!**
+**Terminal / Command Prompt for beginners!**
 
 **Terminal : For Mac Users**
 1. Present working folder (Where am I?) : `pwd` 
