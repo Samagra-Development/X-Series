@@ -13,5 +13,4 @@
 11. Run same command again (How can I do that command again?) : up-arrow, `!!`, or `history`
 12. Run as super user (Permission denied?) : `sudo` (🚨 danger mode 🚨)
 13. Clear screen (How do I clean up this mess?) : `clear`
-14. How do I edit things? nano or vim (i for insert mode, esc for execute mode, :x for save and quit)
-15. I tried running a program and it won't stop ctrl+c
+14. Stop a running command (I tried running a program and it won't stop) : ctrl+c
