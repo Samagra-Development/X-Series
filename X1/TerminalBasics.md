@@ -1,9 +1,9 @@
 **Terminal for beginners!**
 
-1. Where am I?(Present Working Directory) : `pwd` 
-2. What's around me? (List Folders) : `ls`
-3. How do I get around? (Navigate between folders) : `cd place/` (for forwards), `cd ..` (for backwards)
-4. What does this command do? man <command>
+1. Present working folder (Where am I?) : `pwd` 
+2. List folders (What's around me?) : `ls`
+3. Navigate between folders (How do I get around?) : `cd place/` (for forwards), `cd ..` (for backwards)
+4. User manual for a command (What does this command do?) : `man <command>`
 5. How do I create a folder? mkdir folder_name
 6. I want to copy something cp thing new_thing
 7. I wanna move a thing mv thing new/location/thing
