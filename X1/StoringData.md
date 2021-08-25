@@ -23,6 +23,7 @@
 4. Q and A to see understanding [15 mins]
 
 # Installation Guides 🚀
+1. [Install PSQL on Local Machine](https://github.com/Samagra-Development/X-Series/blob/main/X1/Prerequisites.md)
 
 # Docs
 1. [Presentation](https://docs.google.com/presentation/d/10wzRMBT0a2GmqrLZ18t23hG_KfB5iPVqV5mFBiN0QVU)
