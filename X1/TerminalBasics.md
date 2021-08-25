@@ -1,6 +1,5 @@
 **Terminal / Command Prompt for beginners!**
 
-**Terminal : For Mac Users**
 1. Present working folder (Where am I?) : `pwd` 
 2. List folders (What's around me?) : `ls`
 3. Navigate between folders (How do I get around?) : `cd place/` (for forwards), `cd ..` (for backwards)
@@ -16,5 +15,3 @@
 13. Clear screen (How do I clean up this mess?) : `clear`
 14. Stop a running command (I tried running a program and it won't stop) : ctrl+c
 
-**Command Prompt : For Windows Users**
-1. 
