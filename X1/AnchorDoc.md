@@ -28,4 +28,4 @@
 4. [PSQL Data Types](https://github.com/Samagra-Development/X-Series/blob/main/X1/PSQL-DataTypes.md)
 5. [Ability to Import data from PGAdmin](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportDataFromPgAdmin.md)
 6. [Ability to Import data from excel](https://github.com/Samagra-Development/X-Series/blob/main/X1/ImportingDataFromSheet.md)
-7. [Session Recording](https://drive.google.com/drive/folders/1w9p7EcIXVBh69GGK3sdrr3KM6RCD3ACG?usp=sharing
+7. [Session Recording](https://drive.google.com/drive/folders/1w9p7EcIXVBh69GGK3sdrr3KM6RCD3ACG?usp=sharing)
