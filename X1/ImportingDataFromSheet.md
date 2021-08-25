@@ -19,7 +19,6 @@
      - Import the sheet saved above on Google sheets.<br />
      - Please give edit access to *sql-cron-sheet@sql-automator.iam.gserviceaccount.com*<br />
      - Copy a link of the data range. This link will be used later when creating data for the script<br />
-
      **For Larger Datasets (>1 lakh rows), minio will be used to upload the data**<br />
      - Login to [Minio Browser](https://cdn.samagra.io/). Credentials are **username** : admin, **password**: cttsamagra<br />
      - Upload the csv on the Minio UI.<br />
