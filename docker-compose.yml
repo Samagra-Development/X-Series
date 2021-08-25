@@ -1,0 +1,45 @@
+version: "3"
+services:
+  db:
+    image: postgres:latest
+    ports:
+      - "5000:5432"
+    volumes:
+      - ./db-data:/var/lib/postgresql/data
+    container_name: psql
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=dbpassword
+      - POSTGRES_DB=dbname
+
+  graphql-engine:
+    image: hasura/graphql-engine:latest
+    ports:
+      - "5001:8080"
+    depends_on:
+      - db
+    restart: always
+    environment:
+      HASURA_GRAPHQL_DATABASE_URL: postgres://user:dbpassword@db:5432/dbname
+      HASURA_GRAPHQL_ENABLE_CONSOLE: "true" # set to "false" to disable console
+      HASURA_GRAPHQL_ENABLED_LOG_TYPES: startup, http-log, webhook-log, websocket-log, query-log
+      HASURA_GRAPHQL_ADMIN_SECRET: 2OWslm5aAjlTARU
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4:latest
+    environment:
+      PGADMIN_DEFAULT_EMAIL: chakshu@samagragorvernance.in
+      PGADMIN_DEFAULT_PASSWORD: abcd1234
+    volumes:
+       - ./pgadmin:/root/.pgadmin
+    ports:
+      - "5002:80"
+    restart: unless-stopped
+
+  metabase:
+    image: metabase/metabase:latest
+    volumes:
+      - ./metabase-app:/data
+    ports:
+      - "5003:3000"
