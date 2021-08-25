@@ -16,8 +16,8 @@
 - Installing PSQL [10 mins]
 
 3. Ability to create tables and import data from excel
-- Create table on Hasura/Pgadmin [10 mins]
-- Import data on Hasura/Pgadmin [10 mins]
+- Create table on Pgadmin [10 mins]
+- Import data on Pgadmin [10 mins]
 - Import data using Google script [10 mins]
 
 4. Q and A to see understanding [15 mins]
