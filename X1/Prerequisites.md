@@ -1,4 +1,4 @@
-## Prerequisites
+## Install PSQL on Local machine
 1. Install Docker [10 mins]
     1. [Windows](https://www.youtube.com/watch?v=5nX8U8Fz5S0#t=01m00s)
     2. [Mac OSX](https://docs.docker.com/get-docker/)
