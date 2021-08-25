@@ -1,7 +1,7 @@
+**Terminal for beginners!**
 
-
-Where am I? pwd
-What's around me? ls
+1. Where am I? `pwd`
+2. What's around me? ls
 How do I get around cd place/ (forwards), cd .. (backwards)
 What does this command do? man <command>
 How do I create a folder? mkdir folder_name
