@@ -1,3 +1,5 @@
+![Slide1](https://user-images.githubusercontent.com/80503666/130845233-d44f8f5f-26db-4b87-b4ff-8757212fb239.jpeg)
+
 ## Key Takeaways
 
 1. Ability to select the right storage for your data 
