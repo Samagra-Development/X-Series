@@ -24,3 +24,6 @@
 
 # Installation Guides 🚀
 
+# Docs
+1. [Presentation](https://docs.google.com/presentation/d/10wzRMBT0a2GmqrLZ18t23hG_KfB5iPVqV5mFBiN0QVU)
+2. [Comparison of Databases](https://docs.google.com/spreadsheets/d/1jBnI8Cn7t5eKWQgEHCPz2fr-CJl-wDKTLZSo94sD6oU/)
