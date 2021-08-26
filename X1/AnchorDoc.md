@@ -24,7 +24,7 @@
 4. Q and A to see understanding [15 mins]
 
 # Docs
-1. [Presentation : Ability to select the right storage for your data]
+1. [Presentation : Ability to select the right storage for your data](https://drive.google.com/file/d/1XsK7S3POrsJR91BJNpBMFj9_YxRBnkHz/view?usp=sharing)
 2. [Terminal Basics](https://github.com/Samagra-Development/X-Series/blob/main/X1/TerminalBasics.md)
 3. [Install PSQL on Local Machine](https://github.com/Samagra-Development/X-Series/blob/main/X1/Prerequisites.md)
 4. [PSQL Data Types](https://github.com/Samagra-Development/X-Series/blob/main/X1/PSQL-DataTypes.md)
