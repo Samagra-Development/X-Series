@@ -2,7 +2,7 @@
 
 ## Key Takeaways
 
-1. Ability to 
+1. Ability to write complex SQL queries
 
 ## Agenda 📖
 1. Ability to select right storage for your data
