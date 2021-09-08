@@ -8,4 +8,4 @@
 
 
 # Docs
-1. [Session Recording](https://drive.google.com/file/d/1uLC9_o4jzQxRg2CQBN10DVwS_Z9St4Mk/view?usp=sharing)
+1. [Session Recording](https://drive.google.com/drive/folders/1_orabKPxz-MFP6h1v8YR6_t_aFfbNFxg?usp=sharing)
