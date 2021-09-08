@@ -12,11 +12,10 @@
 3. Setting up Metabase locally
 4. Product Walkthrough
 5. Connecting a Database
-6. Edit Metadata using Data Model
-7. Asking Questions
-8. Visualising Results
-9. Building Dashboards
-10. Managing Dashboards
+6. Asking Questions
+7. Visualising Results
+8. Building Dashboards
+9. Managing Dashboards
 
 # Docs
 1. [Session Documentation](https://github.com/Samagra-Development/X-Series/blob/main/X3/SessionDoc.md)
