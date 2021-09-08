@@ -11,7 +11,7 @@ An **open-source** basic **Business intelligence** tool to **help visualise** an
 3. Set of Visualisations offered
 4. Open source community
 5. Ease of deployment
-6. Ease to use GUI (Ease in configuration of database)
+6. Easy to use GUI (Ease in configuration of database)
 
 # Setting up Metabase locally
 
@@ -65,12 +65,12 @@ Following elements are found on the home page
 # Connecting a Database
 1. Go to the Settings Tab
 2. On the top of settings tab, Click on *Databases*
-3. Click on **Add Database** on the top right, In order to connect the database
+3. Click on **Add Database** on the top right, in order to connect the database
 4. Inside the form fill the following details
    
    **DB Type** - PSQL (most of the databases used in Samagra are PSQL)
    
-   **Name** - Descriptor how you want to access the Database later
+   **Name** - Description how you want to access the database later
    
    **Host** - db (In case of the remote database, enter the IP address of the DB)
    
@@ -78,20 +78,20 @@ Following elements are found on the home page
    
    **Database name** - dbname (Name of the database)
    
-   **Username** - user (Wwhat user you use to login to the Database?)
+   **Username** - user (Username through which you use to login to the database)
    
-   **Password** - dbpassword (Password to the Database)
+   **Password** - dbpassword (Password to the database)
  5. Click on Save button at the bottom, you should see a success message. Now you can see the database under the Home tab and also under Browse Data tab.
 
 # Asking Questions
 
 ## What is a Question?
 - A question is essentially a query performed on the data. Think of it as a question you are asking the data – How many students were enrolled district wise, gender wise at a time in the state? 
-- Available on the top right side of the home pag
+- Available on the top right side of the home page
 - Many analytics questions can be answered with just four steps:
   - Join a couple of tables to get all the required information in one place.
   - Filter the data so that it only includes the values that are relevant.
-  - Group and aggregate those values to create the insight you need.
+  - Group and aggregate those values to create the insights you need.
   - Visualize the result so that you can understand what your data is telling you.
 - There are three ways to ask questions: simple, custom, and native queries.
 
@@ -106,7 +106,7 @@ Following elements are found on the home page
 
 - Most basic functionality
 - Quick questions directly from Query Builder, Basically *Pick some data, view it, and easily filter, summarize, and visualize it.*
-- You pick a metric on which you want to summarise data, and then group over a set of data, and then render the answer.
+- You pick a metric on which you want to summarise data, and then group by a set of data, and then render the answer.
 - For Example - Finding the average rating of the product, average rating of product across categories
 
 #### Steps involved
@@ -224,7 +224,6 @@ under the scope of our engagements
    - You can control visibility of the columns
    - You can create custom columns using the Notebook Editor. Let’s say you want to include a column that lists the unit price of the product ordered, which we’d calculate by dividing the Subtotal by the Quantity orders. Open up the Notebook Editor, and select the Custom Column option. Enter the calculation in the Field Formula input box, and then give it a name.
 ![image](https://user-images.githubusercontent.com/63345263/132468969-d8bbbc4b-f458-452d-b95d-a42a26f09ff4.png)
-
 
 **EXERCISE** - Show Product Category wise revenues at Month Level for 2016.
 
