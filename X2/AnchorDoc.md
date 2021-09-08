@@ -5,7 +5,12 @@
 1. Ability to write complex SQL queries
 
 ## Agenda 📖
-
+1. Introduction
+2. Structure of a query
+3. Simple Queries (Select, where, and, or)
+4. Complexity Level - 1 (Group by, count, sum, case when)
+5. Complexity Level - 2 (Joins)
+6. Complexity Level - 3 (Join, group by and everything)
 
 # Docs
 1. [Presentation](https://drive.google.com/file/d/1w-QIIDrC5jxla2d5azQBTS8Nm066dUsS/view?usp=sharing)
