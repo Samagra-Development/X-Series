@@ -19,3 +19,4 @@
 
 # Docs
 1. [Session Documentation](https://github.com/Samagra-Development/X-Series/blob/main/X3/SessionDoc.md)
+2. [Session Recording](https://drive.google.com/drive/folders/1IyuRjieM5e1GNDf5UsiSWog0FRvmB0z7?usp=sharing)
