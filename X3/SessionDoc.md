@@ -67,14 +67,13 @@ Following elements are found on the home page
 2. On the top of settings tab, Click on *Databases*
 3. Click on **Add Database** on the top right, In order to connect the database
 4. Inside the form fill the following details
-   
-   **DB Type** - PSQL (most of the databases used in Samagra are PSQL)
-   **Name** - Descriptor how you want to access the Database later
-   **Host** - db (In case of the remote database, enter the IP address of the DB)
-   **Port** - 5432 (Port on which the DB running)
-   **Database name** - dbname (Name of the database)
-   **Username** - user (Wwhat user you use to login to the Database?)
-   **Password** - dbpassword (Password to the Database)
+   4.1 **DB Type** - PSQL (most of the databases used in Samagra are PSQL)
+   4.2 **Name** - Descriptor how you want to access the Database later
+   4.3 **Host** - db (In case of the remote database, enter the IP address of the DB)
+   4.4 **Port** - 5432 (Port on which the DB running)
+   4.5 **Database name** - dbname (Name of the database)
+   4.6 **Username** - user (Wwhat user you use to login to the Database?)
+   4.7 **Password** - dbpassword (Password to the Database)
  5. Click on Save button at the bottom, you should see a success message. Now you can see the database under the Home tab and also under Browse Data tab.
 
 # Edit Metadata using Data Model
