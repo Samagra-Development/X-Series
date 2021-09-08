@@ -83,17 +83,6 @@ Following elements are found on the home page
    **Password** - dbpassword (Password to the Database)
  5. Click on Save button at the bottom, you should see a success message. Now you can see the database under the Home tab and also under Browse Data tab.
 
-# Edit Metadata using Data Model
-1. Help Save time and cluttering
-2. To make changes to your metadata in Metabase, visit the Data Model tab in the Admin Panel. The Data Model tab displays options to edit metadata for the database, tables, and columns. For example, you can edit a column’s name, visibility, type, and description. You can also remap foreign keys to give human readable names to foreign key columns!
-3. Here are some ways editing metadata can make life better for your users:
-   - When column names are confusing, you can change their names or add a description.
-   - If you have address columns, you can hide them from your users to protect privacy.
-   - You can pick your preferred filter interface from three options (search box, list of values, or plain input box).
-4. **Perhaps the most important piece of metadata you can change is the data type.**
-
-![image](https://user-images.githubusercontent.com/63345263/132396498-3d014706-bc02-4294-9501-765bcb649352.png)
-
 # Asking Questions
 
 ## What is a Question?
