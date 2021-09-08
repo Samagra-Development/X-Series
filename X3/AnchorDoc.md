@@ -19,4 +19,4 @@
 10. Managing Dashboards
 
 # Docs
-1. [Session Documentation](https://github.com/Samagra-Development/X-Series/blob/81c2496b413d5e6aeb6db0c407a7121c0b0f8f5a/X3/SessionDoc.md)
+1. [Session Documentation](https://github.com/Samagra-Development/X-Series/blob/main/X3/SessionDoc.md)
