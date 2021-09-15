@@ -163,13 +163,6 @@ A:
 - Think back to the restaurant example, and compare it to ordering online.
 
 - Instead of asking multiple waiters for multiple different things, an online ordering application lets you **specify exactly what you want**.
-
-
-| GraphQL | REST |
-|--------- |----|
-| GraphQL is like ordering online | REST is like a being in a restaurant with a buffet in it |
-  You specify what you want, and you get exactly that | Everything is available - it's up to you to walk up to whatever you want and take it.
- | You pay for only what you get |  You pay for the whole thing |
  
  
 - Let's come back to the question, and try and do it the GraphQL way.
@@ -201,6 +194,14 @@ A:
 - Let's write a GraphQL query to solve the question above.
 
 - Answer: 
+
+## GraphQL vs REST: In Summary
+
+| GraphQL | REST |
+|--------- |----|
+| GraphQL is like ordering online | REST is like a being in a restaurant with a buffet in it |
+  You specify what you want, and you get exactly that | Everything is available - it's up to you to walk up to whatever you want and take it.
+ | You pay for only what you get |  You pay for the whole thing |
 
 
 
