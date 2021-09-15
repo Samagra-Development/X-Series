@@ -195,6 +195,9 @@ A:
 
 - Answer: 
 
+- Let's test it with Postman
+
+
 ## GraphQL vs REST: In Summary
 
 | GraphQL | REST |
