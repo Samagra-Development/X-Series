@@ -2,8 +2,8 @@
 
 ## Key Takeaways
 
-1. Ability to install metabase on local machine
-2. Ability to connect metabase to existing database
+1. Ability to differentiate between different types of APIs
+2. Ability to install Hasura on local machine
 3. Ability to visualize data
 
 ## Agenda 📖
