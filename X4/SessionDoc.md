@@ -1,6 +1,9 @@
 
 # Expectations
-- 
+- Understand technical integration documents for APIs
+- Drafting requirements for APIs
+- API Design and Development process
+- Can PT members create APIs?
 
 # API?
 
