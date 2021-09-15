@@ -24,4 +24,4 @@
 
 # Docs
 1. [Session Documentation](https://github.com/Samagra-Development/X-Series/blob/main/X4/SessionDoc.md)
-
+2. [Session Recording](https://drive.google.com/drive/folders/1EONfd4Usm4m9WvUJf_EijDDybKZI5Roz?usp=sharing)
