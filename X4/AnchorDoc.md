@@ -4,7 +4,8 @@
 
 1. Ability to differentiate between different types of APIs
 2. Ability to install Hasura on local machine
-3. Ability to visualize data
+3. Ability to create GraphQL APIs
+4. Ability to import and run APIs on Postman
 
 ## Agenda 📖
 1. 
