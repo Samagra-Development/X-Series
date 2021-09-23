@@ -1,4 +1,4 @@
-![Slide5](https://user-images.githubusercontent.com/80503666/134458684-690eee40-81b0-469b-b10f-18c2fd11ec49.jpg)
+![Slide5](https://user-images.githubusercontent.com/80503666/134459731-ec8782fc-0fc6-4da0-bccf-833bcaf5bdea.jpg)
 
 ## Key Takeaways
 
