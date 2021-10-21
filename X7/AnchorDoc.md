@@ -17,3 +17,7 @@
     * Setting up Database Connection
     * Extracting Data
     * Uploading Data
+
+# Docs
+1. [Session Presentation](https://github.com/Samagra-Development/X-Series/edit/main/X7/AnchorDoc.md)
+2. [Session Recording](https://drive.google.com/drive/folders/1gEhLPVvkqZd81aJoQdXmracaMtOlvbRM?usp=sharing)
