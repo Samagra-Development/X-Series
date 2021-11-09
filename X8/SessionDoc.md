@@ -18,7 +18,8 @@ Apache Airflow is an **open-source tool to programmatically author, schedule, an
 2. It defines four Tasks - A, B, C, and D - and dictates the order in which they have to run, and which tasks depend on what others. It will also say how often to run the DAG - maybe "every 5 minutes starting tomorrow", or "every day since January 1st, 2020".
 3. The DAG itself doesn't care about _what_ is happening inside the tasks; it is merely concerned with _how_ to execute them - the order to run them in, how many times to retry them, if they have timeouts, and so on.
 
-> Note: The below example is not a **DAG**:
+> Note: The below example is not a **DAG**:  
+
 ![](https://progressivecoder.com/wp-content/uploads/2021/07/not-a-dag.png)
 4. A valid **DAG** can execute in an **Airflow installation**. Whenever, a DAG is triggered, a DAGRun is created. We can think of a **DAGrun** as an instance of the DAG with an execution timestamp.
 
