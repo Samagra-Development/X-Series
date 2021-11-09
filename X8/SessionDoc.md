@@ -144,6 +144,7 @@ hello_operator
 *   In the first few lines, we are simply importing a few packages from  **airflow**.
 *   Next, we define a function that prints the hello message.
 *   After that, we declare the DAG. It takes arguments such as  **name**,  **description**,  **schedule_interval**,  **start_date**  and  **catchup**. Setting catchup to false prevents Airflow from having the DAG runs catch up to the current date.
+* Check more on how to write cron expressions for schedule_interval [here](https://airflow.apache.org/docs/apache-airflow/1.10.1/scheduler.html)
 *   Next, we define the operator and call it the  **hello_operator**. In essence, this uses the in-built  **PythonOperator** to call our  **print_hello**  function. We also provide a task_id to this operator.
 *   The last statement specifies the order of the operators. In this case, we have only one operator.
 
@@ -260,7 +261,7 @@ python_callable=_training_model
 That’s great but you can do better. Indeed, the 3 tasks are really similar. The only difference lies into the task ids. Therefore, since DAGs are coded in Python, we can benefit from that and generate the tasks dynamically. Take a look at the code below
 
 ```python
-    training_model_tasks = [
+training_model_tasks = [
 PythonOperator(
 task_id=f"training_model_{model_id}",
 python_callable=_training_model,
@@ -307,7 +308,7 @@ Whenever you want to share data between tasks in Airflow, you have to use XCOMs.
 The last two tasks to implements are “accurate” and “inaccurate”. To do that, you can use the BashOperator and execute a very simple bash command to either print “accurate” or “inaccurate” on the standard output.
 
 ```python
-    accurate = BashOperator(
+accurate = BashOperator(
 task_id="accurate",
 bash_command="echo 'accurate'"
 )
