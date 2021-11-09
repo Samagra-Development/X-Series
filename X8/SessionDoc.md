@@ -20,7 +20,8 @@ Apache Airflow is an **open-source tool to programmatically author, schedule, an
 
 > Note: The below example is not a **DAG**:  
 
-![](https://progressivecoder.com/wp-content/uploads/2021/07/not-a-dag.png)
+![](https://progressivecoder.com/wp-content/uploads/2021/07/not-a-dag.png)  
+
 4. A valid **DAG** can execute in an **Airflow installation**. Whenever, a DAG is triggered, a DAGRun is created. We can think of a **DAGrun** as an instance of the DAG with an execution timestamp.
 
 ## What are Nodes in a DAG?
