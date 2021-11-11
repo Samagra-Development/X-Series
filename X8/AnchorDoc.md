@@ -4,19 +4,18 @@
 ## Agenda 📖
 
 1. Introduction	
-    * What is ETL?
+    * What is Airflow?
     * How is it useful?	
-    * What is Talend?	
-2. Setting up Talend
-    * System Requirements
-    * Installation of JDK
-    * Installation
-3. Using Talend
-    * Project Operations in Talend (Creation/Import)
-    * Walkthrough of Major Components
-    * Setting up Database Connection
-    * Extracting Data
-    * Uploading Data
+    * What is DAG?
+    * What are Nodes in a DAG?
+    * Principles	
+2. Installing Airflow
+    * Running from samagra/airflow docker image
+    * Other Installation Methods
+3. Using Airflow
+    * Airflow UI
+    * Creating a DAG
+    * Running the DAG
 
 # Docs
 1. [Session Presentation](https://github.com/Samagra-Development/X-Series/blob/main/X8/SessionDoc.md)
